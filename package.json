@@ -2,7 +2,7 @@
   "name": "@_linked/xsd",
   "displayName": "XML Schema (XSD)",
   "license": "UNLICENSED",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "linkedPackage": true,
   "author": {
     "name": "René Verheij",

@@ -1,0 +1,7 @@
+# @\_linked/xsd
+
+## 1.0.3
+
+### Patch Changes
+
+- [`ad197b0`](https://github.com/linked-cm/xsd/commit/ad197b07d376047e698f01066c20deaab989b71d) - First release under `@_linked/xsd`. Package was previously published as `lincd-xsd`; content is the same, namespace migrated to the `@_linked` scope.
