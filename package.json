@@ -2,10 +2,10 @@
   "name": "@_linked/xsd",
   "displayName": "XML Schema (XSD)",
   "license": "UNLICENSED",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "linkedPackage": true,
   "author": {
-    "name": "Ren\u00e9 Verheij",
+    "name": "René Verheij",
     "url": "https://github.com/flyon",
     "email": "rpwverheij@gmail.com"
   },
