@@ -5,9 +5,6 @@ import * as _this from './xsd.js';
 
 const dataFile = '../data/xsd.json';
 export const loadData = () => {
-  if (typeof module !== 'undefined' && typeof exports !== 'undefined') {
-    return import('../data/xsd.json');
-  }
   //@ts-ignore
   return import('../data/xsd.json', { with: { type: 'json' } }).then(
     (data) => data.default
