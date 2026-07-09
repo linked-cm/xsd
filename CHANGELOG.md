@@ -1,5 +1,11 @@
 # @\_linked/xsd
 
+## 1.0.5
+
+### Patch Changes
+
+- [#5](https://github.com/linked-cm/xsd/pull/5) [`115ce08`](https://github.com/linked-cm/xsd/commit/115ce0839b84238173789f07bd765ad1655c82d7) Thanks [@flyon](https://github.com/flyon)! - loadData: ESM-only JSON import — drop the dead CJS branch, add the `{ with: { type: 'json' } }` import attribute.
+
 ## 1.0.4
 
 ### Patch Changes
