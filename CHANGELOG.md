@@ -1,5 +1,11 @@
 # @\_linked/xsd
 
+## 1.2.1
+
+### Patch Changes
+
+- [#35](https://github.com/linked-fw/xsd/pull/35) [`58bd8ee`](https://github.com/linked-fw/xsd/commit/58bd8eefc7e9c32dffcbf79b885e3c3cffebfe14) Thanks [@flyon](https://github.com/flyon)! - Sourcemaps now embed their TypeScript source, so consumers no longer see 'points to missing source files' warnings.
+
 ## 1.2.0
 
 ### Minor Changes
