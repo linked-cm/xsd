@@ -1,5 +1,11 @@
 # @\_linked/xsd
 
+## 1.2.3
+
+### Patch Changes
+
+- [#41](https://github.com/linked-fw/xsd/pull/41) [`7899ca8`](https://github.com/linked-fw/xsd/commit/7899ca8e3181cc08bdf2ba78a89bcd7797053cda) Thanks [@flyon](https://github.com/flyon)! - The package is now ESM-only, like the rest of the Linked packages. The `require` condition pointed at a `lib/cjs` build that could not load — from the published tarball, `require('@_linked/xsd')` already failed — so it is removed together with the CJS build, and `"type": "module"` is set. `import` is unchanged.
+
 ## 1.2.2
 
 ### Patch Changes
