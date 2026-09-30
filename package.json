@@ -3,7 +3,7 @@
   "displayName": "XML Schema (XSD)",
   "license": "UNLICENSED",
   "version": "1.2.2",
-  "packageManager": "npm@11.20.0",
+  "packageManager": "npm@12.1.0",
   "linkedPackage": true,
   "author": {
     "name": "René Verheij",
