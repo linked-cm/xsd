@@ -1,5 +1,11 @@
 # @\_linked/xsd
 
+## 1.2.2
+
+### Patch Changes
+
+- [#37](https://github.com/linked-fw/xsd/pull/37) [`85670c7`](https://github.com/linked-fw/xsd/commit/85670c7b0d45416fa5411b8ca1e40b6dfdae73be) Thanks [@flyon](https://github.com/flyon)! - Add `shapes/index`, a side-effect-only module that registers every shape this package defines, and have the package entry import it instead of listing shapes one by one. Hosts and consumers can now load `@_linked/xsd/shapes/index` to get the package's full shape set registered without pulling in anything else, and a shape added later is picked up by the entry automatically.
+
 ## 1.2.1
 
 ### Patch Changes

@@ -2,7 +2,7 @@
   "name": "@_linked/xsd",
   "displayName": "XML Schema (XSD)",
   "license": "UNLICENSED",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "packageManager": "npm@11.20.0",
   "linkedPackage": true,
   "author": {
