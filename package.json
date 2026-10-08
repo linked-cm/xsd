@@ -2,6 +2,10 @@
   "name": "@_linked/xsd",
   "displayName": "XML Schema (XSD)",
   "license": "UNLICENSED",
+  "files": [
+    "lib",
+    "CHANGELOG.md"
+  ],
   "version": "1.2.3",
   "type": "module",
   "packageManager": "npm@12.2.0",
