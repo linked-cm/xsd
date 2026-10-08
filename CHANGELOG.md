@@ -1,5 +1,11 @@
 # @\_linked/xsd
 
+## 1.2.4
+
+### Patch Changes
+
+- [#46](https://github.com/linked-fw/xsd/pull/46) [`6545c54`](https://github.com/linked-fw/xsd/commit/6545c54c64d6cc1f839bae1e64eefd07cfbad69e) Thanks [@flyon](https://github.com/flyon)! - Publish only the files consumers need; the tarball no longer includes `.changeset/`, `.gitattributes`, `.github/`, `renovate.json`, `test/` or tsconfig files.
+
 ## 1.2.3
 
 ### Patch Changes
