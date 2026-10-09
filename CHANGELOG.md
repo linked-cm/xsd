@@ -1,5 +1,11 @@
 # @\_linked/xsd
 
+## 1.2.5
+
+### Patch Changes
+
+- [#48](https://github.com/linked-fw/xsd/pull/48) [`4c835b3`](https://github.com/linked-fw/xsd/commit/4c835b3b58e0ca91c0404da0401f18b166f15fdc) Thanks [@flyon](https://github.com/flyon)! - Build with `linked build`, the standard build for linked packages. The published `lib/` holds the same files as before; the `rimraf` and `copyfiles` dev dependencies are gone. The type packages the compiler config already relies on (`@types/node`, `@types/react`, `@types/react-dom`) are now declared as dev dependencies instead of arriving transitively.
+
 ## 1.2.4
 
 ### Patch Changes
